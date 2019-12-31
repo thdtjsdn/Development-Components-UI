@@ -1,0 +1,44 @@
+.horizontal-split-bar {
+	left: 15% !important; width: 70% !important; height: 5px !important; background: #aaa !important;
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.3;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+}
+.horizontal-split-bar:hover {
+	left: 5% !important; width: 90% !important; height: 5px !important; background: #aaa !important;
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 1.0;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+}
+.vertical-split-bar {
+	top: 15% !important; height: 70% !important; width: 5px !important; background: #aaa !important;
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.3;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+}
+.vertical-split-bar:hover {
+	top: 5% !important; height: 90% !important; width: 5px !important; background: #aaa !important;
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 1.0;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+}
