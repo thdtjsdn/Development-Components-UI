@@ -11,7 +11,7 @@
 
 	//----------------------------------------------------------------------------------------------------;
 
-	//window.b2link.util.importJS__Reuse( window.b2link.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/Chart.js/2.7.2/Chart.min.js" );
+	//window.apis.util.importJS__Reuse( window.apis.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/Chart.js/2.7.2/Chart.min.js" );
 	/*!
 	 * Chart.js
 	 * http://chartjs.org/

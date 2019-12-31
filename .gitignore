@@ -172,9 +172,14 @@ WebPage/root/less_ui/*.css
 WebPage/root/less_ui_custom/*
 WebPage/root/less_ui_custom/*.*
 
+
+
 WebPage/root/libs/dhtmlx/5.1.0/***
 WebPage/root/libs/dhtmlx/6.2.2/***
 WebPage/root/libs/dhtmlx/vault/***
+WebPage/root/libs/FancyGrid/1.7.20/***
+
+
 
 WebPage/root/ui
 WebPage/root/ui_template/*.html

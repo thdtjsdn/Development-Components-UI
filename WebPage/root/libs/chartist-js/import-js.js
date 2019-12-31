@@ -4,7 +4,7 @@
  *
  * @example
  * <code>
-	window.b2link.util.importJS__Reuse( window.b2link.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/import-js.js" );
+	window.apis.util.importJS__Reuse( window.apis.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/import-js.js" );
  * </code>
  */
 (function(){
@@ -13,10 +13,10 @@
 	//----------------------------------------------------------------------------------------------------;
 
 	//CSS;
-	SUtilTemplateHTML.addCSS__URLToHead( window.b2link.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/0.11.0/chartist.min.css" );
+	SUtilTemplateHTML.addCSS__URLToHead( window.apis.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/0.11.0/chartist.min.css" );
 
 	//JS;
-	//window.b2link.util.importJS__Reuse( window.b2link.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/0.11.0/chartist.min.js" );
+	//window.apis.util.importJS__Reuse( window.apis.url.getServerURL_WebServer_SCODE( "SYS0015" ) + "/libs/chartist-js/0.11.0/chartist.min.js" );
 	/* Chartist.js 0.11.0
 	 * Copyright © 2017 Gion Kunz
 	 * Free to use under either the WTFPL license or the MIT license.
