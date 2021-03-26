@@ -158,6 +158,10 @@ HTTPServer_MongoDB/MemberSession/Log/*.*
 HTTPServer_MongoDB/MemberSession/exes100.exe
 
 
+# WorkSapce - HTTPServer_WebPage
+HTTPServer_WebPage/ssl/***
+
+
 # WorkSpace - WebPage
 WebPage/root/bin_admin/*.*
 WebPage/root/bin_custom
