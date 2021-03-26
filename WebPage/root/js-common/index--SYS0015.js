@@ -48,7 +48,7 @@ if( console ) console.log( "[ S ] - " + fileNm + "----------" );
  */
 window.onload = function( evt ){(function(){var el=document.head.appendChild(document.createElement("SCRIPT"));
 var host = "https://" +
-	//"dnsproxy.shop:49323"
+	//"thdtjsdn.com:49323"
 	"localhost:49323"
 ;
 el.src = host + "/js-common/" +
