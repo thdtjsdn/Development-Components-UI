@@ -1,1 +1,0 @@
-..\..\TtwPlatform-Binary--Win\Binary\Electron\electron --expose-gc .
