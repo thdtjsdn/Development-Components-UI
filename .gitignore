@@ -185,6 +185,10 @@ WebPage/root/libs/FancyGrid/1.7.20/***
 
 
 
+WebPage/root/json/stock/sparkline/***
+
+
+
 WebPage/root/ui
 WebPage/root/ui_template/*.html
 WebPage/root/ui_template/**/*.html
